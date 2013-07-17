@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<VariablesViewState
+   version = "1.0">
+   <ContextStates>
+      <ContextState
+         contextName = "-[ViewController buttonGetInfoTouchUpInside:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "zzz">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[ViewController GetInfoHandler:]:ViewController.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "service">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SoapRequest connection:didReceiveResponse:]:SoapRequest.m">
+      </ContextState>
+      <ContextState
+         contextName = "+[SoapRequest create:action:urlString:soapAction:postData:deserializeTo:]:SoapRequest.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[TDProduction GetInfo:action:Barcode:]:TDProduction.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SoapRequest connection:didReceiveData:]:SoapRequest.m">
+         <PersistentStrings>
+            <PersistentString
+               value = "(">
+            </PersistentString>
+            <PersistentString
+               value = "(id*)value">
+            </PersistentString>
+         </PersistentStrings>
+      </ContextState>
+      <ContextState
+         contextName = "-[SoapParameter initWithValue:forName:]:SoapParameter.m">
+      </ContextState>
+      <ContextState
+         contextName = "-[SoapRequest send]:SoapRequest.m">
+      </ContextState>
+   </ContextStates>
+</VariablesViewState>
